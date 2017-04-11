@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">OneBus</string>
+    <string name="title_activity_inicio">Inicio</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="hint_destino">Digite o nome do Bairro</string>
+    <string name="hint_onibus">Digite o nome do Ônibus</string>
+    <string name="action_settings">Settings</string>
 </resources>

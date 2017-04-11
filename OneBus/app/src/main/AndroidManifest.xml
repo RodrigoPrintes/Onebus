@@ -15,6 +15,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".Inicio"
+            android:label="@string/title_activity_inicio"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".ActivityOnibus" />
+        <activity android:name=".ActivityDestino"></activity>
     </application>
 
 </manifest>
